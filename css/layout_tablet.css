@@ -38,3 +38,25 @@
     position: unset;
     width: 400px;
 }
+.imagem-minha{
+    width: 80%;
+}
+.texto-me{
+    width: 80%;
+    margin-top: 45px;
+    display: flex;
+    flex-direction: column;
+    height: 430px;
+    justify-content: space-between;
+}
+.sobre-mim{
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.conteudo-meu{
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+ 

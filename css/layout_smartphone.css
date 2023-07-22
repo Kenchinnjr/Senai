@@ -35,8 +35,16 @@
     width: 100%;
     margin-top: 30px;
 }
+.imagem-minha{
+    width: 100%;
+}
+.texto-me{
+    width: 100%;
+    height: unset;
+}
 @media screen and (max-width: 360px){
     .titulo-senai{
         font-size: 42px;
     }
 }
+ 
